@@ -20,7 +20,6 @@ Full Stack Developer (MERN) | B.Tech CSE @ Galgotias '26 | Building web apps, RE
 src="https://img.shields.io/github/followers/rumman963?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a><a href="https://www.x.com/ItsRumman" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ItsRumman?logo=twitter&style=for-the-badge&color=ffffff&labelColor=1c1917"
 /></a>
-### Badges
 
 <b>My GitHub Stats</b>
 
