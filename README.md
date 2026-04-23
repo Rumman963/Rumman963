@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MERN Dev
 --------
 
-Full Stack Developer (MERN) | B.Tech CSE @ Galgotias '26 | Building web apps, REST APIs & clean UIs | Intern @ Lunar Labs | Chess ♟️ | Web3 🪙 | Open to opportunities 🚀
+Full Stack Developer (MERN) | B.Tech IT @ Galgotias '26 | Building web apps, REST APIs & clean UIs | Intern @ Lunar Labs | Chess ♟️ | Web3 🪙 | Open to opportunities 🚀
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mohdrummankhan96@gmail.com](mailto:mohdrummankhan96@gmail.com)
