@@ -10,7 +10,7 @@ Full Stack Developer (MERN) | B.Tech IT @ Galgotias '26 | Building web apps, RES
 * ✉️  You can contact me at [mohdrummankhan96@gmail.com](mailto:mohdrummankhan96@gmail.com)
 
 Skills:-
-<div align="center">
+<div style="display: flex; gap: 10px; align-items: center;">
   
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 
