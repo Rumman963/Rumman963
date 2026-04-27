@@ -12,14 +12,14 @@ Full Stack Developer (MERN) | B.Tech IT @ Galgotias '26 | Building web apps, RES
 Skills:-
 <div align="right">
 
-<div>
+
   
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /> </a>
 
-</div>
+
 
 
 
