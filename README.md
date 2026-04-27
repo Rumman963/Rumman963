@@ -11,7 +11,7 @@ Full Stack Developer (MERN) | B.Tech IT @ Galgotias '26 | Building web apps, RES
 
 Skills:-
 
-<div align="right">
+<div align="left-right">
   <div style="display: flex;">
   
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
