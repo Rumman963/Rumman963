@@ -1,18 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mohd Rumman Khan
 =========================================================================================================================================
 
-
-
 <!-- ANIMATED GREETING -->
 <div align="center">
-
-<a href="https://github.com/Rumman963">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+there!+I'm+Rumman+👋;Welcome+to+my+Profile!+🚀" alt="Greeting" />
-</a>
-
-<a href="https://github.com/Rumman963">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=600&color=A5D6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+MERN+Stack+⚡;Building+REST+APIs+%26+Web+Apps+🛠️;B.Tech+%40+Galgotias+Engineering+(2026)+🎓;Chess+Player+♟️+%7C+Web3+Enthusiast+🪙;Open+to+Internships+%26+Opportunities+💼" alt="Tagline" />
-</a>
 
 <br/>
 
@@ -83,7 +73,7 @@ const Rumman = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rumman963&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rumman963&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&include_all_commits=true & count_private=true" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rumman963&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="180"/>
 
 <br/>
@@ -168,17 +158,7 @@ const Rumman = {
 
 ---
 
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Rumman963-181717?style=for-the-badge&logo=github)](https://github.com/Rumman963)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rumman96-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Rumman96)
-[![Gmail](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:mohdrummankhan96@gmail.com)
-
-<br/>
-
-> *"The best way to predict the future is to build it."* 🚀
+ *"The best way to predict the future is to build it."* 🚀
 
 </div>
 
