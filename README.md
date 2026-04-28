@@ -89,19 +89,6 @@ const Rumman = {
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rumman963&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6E96&area=true&area_color=58A6FF&hide_border=true" width="100%"/>
 </div>
-
----
-
-## 🐍 My Contributions Going Nom Nom...
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rumman963/Rumman963/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rumman963/Rumman963/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Rumman963/Rumman963/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-</div>
-
 ---
 
 ## 💼 Experience
@@ -167,8 +154,6 @@ const Rumman = {
 
 ---
 
-<details>
-<br/>
 
 
 
